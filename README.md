@@ -37,3 +37,5 @@ event-management-app/
 │ │ ├── components/
 │ │ └── App.js
 ├── README.md
+
+** Project Demo -> https://github.com/Bhushansatpute06/Event-App/blob/main/assets/demo.mp4
